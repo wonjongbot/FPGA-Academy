@@ -1,0 +1,7 @@
+module part3 (SW, LEDR):
+	input [9:0] SW;
+	output [9:0] LEDR;
+	
+	// U = SW[0]; V = SW[1]; W = SW[2]; X = SW[3]
+	
+endmodule
